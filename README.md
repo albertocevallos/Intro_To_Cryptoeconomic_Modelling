@@ -23,8 +23,8 @@ You can install the dependencies using [pip](https://pypi.org/project/pip/).
 
 ## Usage
 
-You can clone the [blockchain.py](https://github.com/albertocevallos/Cryptoeconomics_Workshop/blob/master/blockchain.py) file but I recommend using the Google colab link and run the code from [there](https://colab.research.google.com/drive/1U3Zp3SckhwussLox6Ko4lJCnUzl0lpE3).
+You can clone the jupyter notebook version [blockchain.ipynb](https://github.com/albertocevallos/Mechanism_Design_Using_Python/blob/master/blockchain.ipynb) file but I recommend using the Google colab link and run the code from [there](https://colab.research.google.com/drive/1U3Zp3SckhwussLox6Ko4lJCnUzl0lpE3).
 
 ## Credits
 
-Thanks to [howcodeORG](https://github.com/howCodeORG/Simple-Python-Blockchain/blob/master/blockchain.py) for the blockchain simulation code.
+Thanks to [howcodeORG](https://github.com/howCodeORG/Simple-Python-Blockchain/blob/master/blockchain.py) for the base blockchain simulation code.
