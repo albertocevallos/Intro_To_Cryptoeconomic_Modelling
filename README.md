@@ -11,6 +11,7 @@ This is the code for this Medium article published by Alberto Cevallos on using 
 * Part III: Test and Evaluate Performance
 
 Take into account that blockchain protocols couple different types of mechanisms for different purposes (using PoW or PoS for sybil control, or PBFT or Tendermint for decision making/consensus). Many combinations are possible but not all make sense.
+
 Much of the design work consists in understanding what are the different attack vectors, governance objectives and desired  product requirements.
 
 ## Dependencies
