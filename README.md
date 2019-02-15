@@ -7,8 +7,7 @@ This is the code for this Medium article published by Alberto Cevallos on using 
 ### Content
 
 * Part I: Build a Simple Blockchain Using Python
-* Part II: Design and Code Mechanism
-* Part III: Test and Evaluate Performance
+* Part II: Design and Test Mechanism
 
 Take into account that blockchain protocols couple different types of mechanisms for different purposes (using PoW or PoS for sybil control, or PBFT or Tendermint for decision making/consensus). Many combinations are possible but not all make sense.
 
