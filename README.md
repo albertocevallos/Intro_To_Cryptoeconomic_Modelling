@@ -1,4 +1,4 @@
-# Mechanism_Design_Using_Python
+# Intro_To_Cryptoeconomic_Modelling
 
 ## Overview
 
