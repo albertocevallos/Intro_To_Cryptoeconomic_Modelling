@@ -111,7 +111,7 @@ class Blockchain:
 # Initialize the blockchain.
 blockchain = Blockchain()
 
-# To mine 1o blocks, run the loop for 10x.
+# To mine 10 blocks, run the loop for 10x.
 for n in range(10):
     blockchain.mine(Block("Block " + str(n+1)))
 
