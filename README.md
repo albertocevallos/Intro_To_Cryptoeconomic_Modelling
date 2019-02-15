@@ -26,4 +26,4 @@ You can clone the [blockchain.py](https://github.com/albertocevallos/Cryptoecono
 
 ## Credits
 
-Thanks to [howcodeORG](https://github.com/howCodeORG/Simple-Python-Blockchain/blob/master/blockchain.py) for the original blockchain simulation code.
+Thanks to [howcodeORG](https://github.com/howCodeORG/Simple-Python-Blockchain/blob/master/blockchain.py) for the blockchain simulation code.
