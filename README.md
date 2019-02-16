@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for this Medium article published by Alberto Cevallos on using Python for mechanism design.
+This is the code for [this](https://medium.com/@acvlls/a-short-intro-to-cryptoeconomic-modelling-1-2-a840fa55bd18) Medium article published by Alberto Cevallos on using Python for mechanism design.
 
 ### Content
 
